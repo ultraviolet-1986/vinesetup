@@ -1,5 +1,6 @@
 # vinesetup
 A BASH script to help users set up and maintain a new Vine Linux installation.
+
 このスクリプトは、ユーザーがバインのLinuxの彼らのインストールを維持するのに役立ちます。
 
 Translators are welcome / 翻訳者は歓迎されています
